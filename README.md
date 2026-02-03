@@ -46,10 +46,7 @@
 }
 ```
 ---
-Strategic Connections
+Connections
 
-LinkedIn: Adarsh Pandey 
 Email: pandey.adarsh2910@gmail.com
 
----
-<p align="center"> <img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DPandey456%26label%3DSYSTEM%2520PENETRATIONS%26color%3D00f2ff%26style%3Dflat-square" /> </p>
