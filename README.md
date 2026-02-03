@@ -6,9 +6,9 @@
 
 ---
 
-### 🌐 System Profile
+###  System Profile
 > **B.Tech in Computer Science & Business Systems**. 
-> I specialize in high-performance decentralized systems. By day, I optimize enterprise applications at **Cognizant**; by night, I architect secure smart contracts using **Foundry** and **Advanced Solidity**.
+> I specialize in high-performance decentralized systems. By day, I optimize enterprise applications as a **Performance Engineer Trainee at Cognizant**; by night, I architect secure smart contracts using **Foundry** and **Advanced Solidity**.
 
 ---
 
@@ -16,10 +16,10 @@
 
 | Layer | Technologies |
 | :--- | :--- |
-| **Blockchain** |**Solidity** (Advanced), **Foundry**, Hardhat, OpenZeppelin |
-| **Performance** | **Grafana**, JMeter, LoadRunner, APPD, Perfmon ,NewRelic , Python Selenium |
-| **Web Infrastructure** | **Next.js**, React.js, Tailwind CSS, TypeScript, Node.js  |
-| **Data & Cloud** | **SQL**, Power BI, AWS (EC2), Python |
+| **Blockchain** | **Solidity** (Advanced), **Foundry**, Hardhat, OpenZeppelin |
+| **Performance** | **Grafana**, JMeter, LoadRunner, APPD, Perfmon, NewRelic, Python Selenium  |
+| **Web Infrastructure** |**Next.js**, React.js, Tailwind CSS, TypeScript, Node.js |
+| **Data & Cloud** | **SQL**, Power BI, AWS (EC2), Python  |
 
 ---
 
@@ -27,7 +27,7 @@
 * **📄 Patent Filed:** Filed for **"NFT Marketplace for Startup Funding"** (App no: 202441011163).
 * **🏗️ Startup Mahakumbh:** Selected to showcase my final year project in New Delhi from **1,095 candidates**.
 * **🛡️ Security Focus:** Mastering **Advanced Foundry** for invariant testing and gas optimization (Cyfrin Updraft / Stephen Grider).
-* **🌐 GDSC Founding Lead:** Built the developer community and spearheaded technical seminars.
+* **🌐 GDSC Founding Lead:** Established the community as the **Founding Lead of GDSC'23**.
 
 ---
 
@@ -44,3 +44,12 @@
   "specialization": ["Performance_Optimization", "Smart_Contract_Logic"],
   "achievements": ["International_Karate_Gold_Medalist", "Microsoft_Specialist"]
 }
+```
+---
+Strategic Connections
+
+LinkedIn: Adarsh Pandey 
+Email: pandey.adarsh2910@gmail.com
+
+---
+<p align="center"> <img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DPandey456%26label%3DSYSTEM%2520PENETRATIONS%26color%3D00f2ff%26style%3Dflat-square" /> </p>
