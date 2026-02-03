@@ -1,48 +1,46 @@
-# ⚡ system.init("Adarsh Pandey")
+# ⚡ terminal.access("Adarsh Pandey")
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=41FF00&center=true&vCenter=true&width=700&lines=Performance+Engineer+%40+Cognizant;Advanced+Foundry+%2B+Solidity+Developer;Full-Stack+Web3+Architect;Smart+Contract+Security+Researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00f2ff&center=true&vCenter=true&width=700&lines=Performance+Engineer+%40+Cognizant;Patent+Applied:+NFT+Marketplace;Advanced+Foundry+%2B+Solidity;Full-Stack+Next.js+Developer" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🌐 Architectural Overview
-> [cite_start]**B.Tech in Computer Science & Business Systems**. 
-> I bridge the gap between **High-Performance Engineering** and **Decentralized Finance**. Currently specialized in building gas-optimized, audited-standard smart contracts using the Foundry suite.
+### 🌐 System Profile
+> **B.Tech in Computer Science & Business Systems**. 
+> I specialize in high-performance decentralized systems. By day, I optimize enterprise applications at **Cognizant**; by night, I architect secure smart contracts using **Foundry** and **Advanced Solidity**.
 
 ---
 
-### 🛠️ Technical Matrix
+### 🛠️ Specialized Tech Stack
 
-| Layer | Technologies & Frameworks |
+| Layer | Technologies |
 | :--- | :--- |
-| **Blockchain** | **Solidity** (Advanced), **Foundry**, Hardhat, OpenZeppelin |
-| **Frontend** | [cite_start]**Next.js**, React.js [cite: 13, 108][cite_start], Tailwind CSS[cite: 109], TypeScript |
-| **Performance** | [cite_start]**Grafana**, JMeter [cite: 13, 17][cite_start], LoadRunner [cite: 13, 17][cite_start], APPD [cite: 13] |
-| **Backend/Data** | [cite_start]SQL [cite: 59][cite_start], Node.js, Python [cite: 57][cite_start], AWS (EC2) [cite: 13] |
+| **Blockchain** |**Solidity** (Advanced), **Foundry**, Hardhat, OpenZeppelin |
+| **Performance** | **Grafana**, JMeter, LoadRunner, APPD, Perfmon ,NewRelic , Python Selenium |
+| **Web Infrastructure** | **Next.js**, React.js, Tailwind CSS, TypeScript, Node.js  |
+| **Data & Cloud** | **SQL**, Power BI, AWS (EC2), Python |
 
 ---
 
-### 🚀 Active Execution (Current Projects)
-- 🏗️ **DeFi Primaries:** Building scalable primitives with a focus on **Security Patterns** (Reentrancy guards, Access Control).
-- 🧪 **Test-Driven Dev:** Utilizing **Foundry** for fuzzing and invariant testing to ensure 100% code coverage.
-- 📈 **Real-time Observability:** Leveraging **Grafana** to visualize system performance and blockchain state changes.
-- ⚡ **Full-Stack Web3:** Integrating **Next.js** with Ethers.js/Viem for seamless user-onboarding in DApps.
+### 🚀 Innovation & Proof of Work
+* **📄 Patent Filed:** Filed for **"NFT Marketplace for Startup Funding"** (App no: 202441011163).
+* **🏗️ Startup Mahakumbh:** Selected to showcase my final year project in New Delhi from **1,095 candidates**.
+* **🛡️ Security Focus:** Mastering **Advanced Foundry** for invariant testing and gas optimization (Cyfrin Updraft / Stephen Grider).
+* [cite_start]**🌐 GDSC Founding Lead:** Built the developer community and spearheaded technical seminars[cite: 5, 35, 49].
 
 ---
 
-### 📊 Performance Metrics
+### 📈 Activity Matrix
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pandey456&theme=dracula&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pandey456&theme=tokyonight&hide_border=true&area=true" width="100%" />
 </p>
 
-```javascript
-const Adarsh = {
-  status: "Optimizing_DeFi_Protocols",
-  credentials: {
-    [cite_start]patent: "NFT Marketplace for Startup Funding ",
-    experience: "Performance Tester @ Cognizant ",
-    leadership: "Founding Lead @ GDSC "
-  },
-  philosophy: "If it's not tested, it's broken."
-};
+```json
+{
+  "engineer": "Adarsh Pandey",
+  "enterprise": "Cognizant",
+  "status": "Engineering_DeFi_Security",
+  "specialization": ["Performance_Optimization", "Smart_Contract_Logic"],
+  "achievements": ["International_Karate_Gold_Medalist", "Microsoft_Specialist"]
+}
