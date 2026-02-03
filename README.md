@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hi there, I'm Adarsh! 👋 
 
-### ⚡ Blockchain Developer | On-Chain Analyst | Educator
+### ⚡ Performance Engineer | Blockchain Developer | On-Chain Analyst |
 
 I'm a Web3 enthusiast and developer focused on building secure decentralized applications and deciphering blockchain data. I'm currently deep-diving into the Ethereum ecosystem, mastering smart contract security, and scaling my technical footprint in the Indian Web3 space.
 
@@ -23,7 +23,6 @@ I'm a Web3 enthusiast and developer focused on building secure decentralized app
 ### 🛠️ What I'm Up To:
 - 🔭 **Building:** Advanced DeFi protocols using **Foundry** and **Solidity**.
 - 📊 **Analyzing:** Creating specialized on-chain analysis reports to track whale movements and protocol health.
-- 📹 **Educating:** Teaching the Hindi-speaking community about Web3 via my YouTube channel, **CryptoMudra**.
 - 🎓 **Learning:** Currently mastering Advanced Foundry and DeFi security via Cyfrin Updraft.
 
 ---
@@ -32,7 +31,7 @@ I'm a Web3 enthusiast and developer focused on building secure decentralized app
 - **Languages:** Solidity, JavaScript
 - **Frameworks/Tools:** Foundry, Hardhat, Ethers.js, Web3.js
 - **On-Chain Analysis:** Dune Analytics, Arkham, Nansen, Glassnode
-- **Content:** Technical Writing & Video Production (Hindi)
+- **Content:** Technical Writing & Video Production
 
 ---
 
@@ -42,15 +41,8 @@ I'm a Web3 enthusiast and developer focused on building secure decentralized app
 
 ---
 
-### 🎥 Featured Content (CryptoMudra)
-I bridge the gap between complex blockchain tech and the Indian crypto community.
-- [Check out my latest videos on YouTube](https://www.youtube.com/@CryptoMudra) 👈
-
----
 
 ### 🤝 Let's Connect:
-- **YouTube:** [CryptoMudra](https://www.youtube.com/@CryptoMudra)
-- **LinkedIn:** [Your LinkedIn Link Here]
-- **Twitter:** [@YourHandle Here]
+- **LinkedIn:** [[](https://www.linkedin.com/in/-adarsh/)]
 
 *"Code is Law, but Data tells the Story."*
