@@ -27,7 +27,7 @@
 * **📄 Patent Filed:** Filed for **"NFT Marketplace for Startup Funding"** (App no: 202441011163).
 * **🏗️ Startup Mahakumbh:** Selected to showcase my final year project in New Delhi from **1,095 candidates**.
 * **🛡️ Security Focus:** Mastering **Advanced Foundry** for invariant testing and gas optimization (Cyfrin Updraft / Stephen Grider).
-* [cite_start]**🌐 GDSC Founding Lead:** Built the developer community and spearheaded technical seminars[cite: 5, 35, 49].
+* **🌐 GDSC Founding Lead:** Built the developer community and spearheaded technical seminars.
 
 ---
 
