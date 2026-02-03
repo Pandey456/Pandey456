@@ -35,10 +35,31 @@ I'm a Web3 enthusiast and developer focused on building secure decentralized app
 
 ---
 
+
 ### 📈 GitHub Stats:
 ![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pandey456&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pandey456&layout=compact&theme=radical)
 
+
+---
+
+## 📉 Dynamic Identity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pandey456&theme=dracula&hide_border=true&area=true" width="100%" />
+</p>
+
+```json
+{
+  "name": "Adarsh",
+  "role": "Blockchain Engineer",
+  "focus": ["Advanced Solidity", "Foundry", "On-Chain Analytics"],
+  "projects": {
+    "education": "CryptoMudra YouTube",
+    "status": "Learning DeFi Security"
+  },
+  "location": "India"
+}
+```
 ---
 
 
