@@ -16,7 +16,7 @@
 
 | Layer | Technologies |
 | :--- | :--- |
-| **Blockchain** | **Solidity** (Advanced), **Foundry**, OpenZeppelin |
+| **Blockchain** | **Solidity** (Advanced), **Foundry**, OpenZeppelin, Ganache Test |
 | **Performance** | **Grafana**, JMeter, LoadRunner, APPD, Perfmon, NewRelic, Python Selenium  |
 | **Web Infrastructure** |**Next.js**, React.js, Tailwind CSS, TypeScript, Node.js |
 | **Data & Cloud** | **SQL**, Power BI, AWS (EC2), Python  |
