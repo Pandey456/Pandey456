@@ -60,7 +60,7 @@
   "night_shift": "Smart Contract Engineer / DeFi Protocol Developer",
   "currently_shipping": "Mini-AMM on Sepolia → L2 mainnet next",
   "learning": ["Cyfrin Updraft", "V2 → V3 → V4 architecture"],
-  "location": "Chennai, India",
+  "location": "Bangalore, India",
   "seeking": "Remote Web3 engineering / audit associate roles"
 }
 ```
